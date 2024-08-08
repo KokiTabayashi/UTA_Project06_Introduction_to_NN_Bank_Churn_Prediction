@@ -1,4 +1,4 @@
-# UTA_Project06_Introduction_to_NN_Bank_Churn_Prediction
+# UTA_Project06_NN_Bank_Churn_Prediction
 Bank Churn Prediction
 
 Objective:
